@@ -2,7 +2,7 @@
 name = "langchain-c-course"
 version = "0.1.0"
 description = ""
-authors = ["Mintu Kumar <imin2tu@gmail.com>"]
+authors = ["Mintu Kumar <your.com>"]
 readme = "README.md"
 packages = [{include = "src"}]
 
